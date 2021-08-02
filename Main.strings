@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Guessing \"game\""; ObjectID = "DV8-XE-dF8"; */
+"DV8-XE-dF8.normalTitle" = "Вгадай";
+
+/* Class = "UILabel"; text = "Hi, "; ObjectID = "S7P-yD-Ltb"; */
+"S7P-yD-Ltb.text" = "Привiт, ";
+
+/* Class = "UIButton"; normalTitle = "Add two numbers"; ObjectID = "m4H-Vy-zXi"; */
+"m4H-Vy-zXi.normalTitle" = "Склади 2 числа";
